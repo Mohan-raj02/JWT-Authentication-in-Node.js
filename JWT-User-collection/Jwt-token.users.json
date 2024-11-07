@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "672b9347d2256df4c485dfba"
+  },
+  "username": "Aarthy",
+  "password": "$2b$10$fStWSZXjBjl6lvXdSLM0GuCe03YOiVRc.ML/5OTI4vHTdX5kJLRJa",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672b936ed2256df4c485dfbe"
+  },
+  "username": "Mohan",
+  "password": "$2b$10$Kx.LRwrmz9QOS3kG.BtAOu2MS1wlieNlRsh8sHXl7yaTXVm6ZOWkW",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672b937cd2256df4c485dfc0"
+  },
+  "username": "Darwin",
+  "password": "$2b$10$PgJPmonDJS/0FowCiAxos.RZRmd2fyVJoHxzYfA5xArTG33u4P646",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672b939cd2256df4c485dfc2"
+  },
+  "username": "Mugilan",
+  "password": "$2b$10$wnJN1uhebiO969tk.sXA9ejhP.hcK0BSaTexWjxhMk7I6Y2RAcFHO",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672b9466e731c1c742c5d151"
+  },
+  "username": "Mohan Raj",
+  "password": "$2b$10$PfNEuyikhOJ7HNXWcJT6.OMnbqLz0CJ3Rxp67fW5MYnAc3q.Duxm6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672b95a35bee03b55a536713"
+  },
+  "username": "surya",
+  "password": "$2b$10$j2mdbTOR8AZ6ItCtegWDtOD./CGbLD6v4suOL3GVprx5iiR1AObaS",
+  "__v": 0
+}]
